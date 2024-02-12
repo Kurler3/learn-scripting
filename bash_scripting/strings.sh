@@ -17,9 +17,6 @@ expr index "$str" "$substr" # Finds the index in str of of any char in the subst
 echo ${str:3}
 
 
-
-
-
 DATARECORD="last=Paulo,first=Joao,city=Toulouse"
 
 
